@@ -1,2 +1,3 @@
-# machine_learning_practice
-Collection of tutorials about ML I am doing
+# Machine Learning Practice
+
+Collection of tutorials about ML I am doing.
